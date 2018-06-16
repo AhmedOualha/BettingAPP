@@ -2,7 +2,7 @@
 # BettingAPP
 This is the repo of the betting application between friends
 =======
-# The Ionic Super Starter for us 🎮
+# The Ionic Super Starter for us ah oui🎮
 
 <img src="https://user-images.githubusercontent.com/236501/32385619-bddac0ac-c08c-11e7-9ee4-9c892197191f.png" width="400" />
 
